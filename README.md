@@ -17,7 +17,7 @@
 
 ```ascii
  ╔══════════════════════════════════════════════════════════════════════════════╗
- ║  > IDENT: Bughopper14 // Willy                                              ║
+ ║  > IDENT: Bughopper                                                          ║
  ║  > ARCH : Two-Plane Multi-Agent Orchestration (Control Plane & Git Worktrees)║
  ║  > STACK: Next.js 16 • TypeScript • Python 3.12 • SQLite/PG • LLM Gateways  ║
  ║  > RULES: 1 Task at a Time • Real Execution Verified • Zero Fluff           ║
@@ -74,35 +74,40 @@
 
 ---
 
-### 📊 `[03_TELEMETRY]` Cyberpunk Neural Metrics
+### 🕹️ `[03_ARCADE_ZONE]` Interactive Mini-Games & Simulations
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bughopper14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=00F5FF&text_color=C9D1D9" alt="GitHub Stats" />
-</p>
+Pilih game untuk dimainkan atau disimulasikan langsung:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bughopper14&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFA3&fire=00F5FF&currStreakNum=00FFA3" alt="GitHub Streak" />
-</p>
+| Game Module | Engine & Type | Play / Launch |
+| :--- | :--- | :---: |
+| 🦖 **Chrome Dino Runner** | Classical Endless Arcade | [![Play Dino](https://img.shields.io/badge/PLAY_GAME-🦖_Dino_Runner-00FFA3?style=for-the-badge)](https://chromedino.com/) |
+| 👾 **Space Invaders Retro** | Arcade Pixel Defense | [![Play Retro Arcade](https://img.shields.io/badge/PLAY_GAME-👾_Space_Invaders-00F5FF?style=for-the-badge)](https://freeinvaders.org/) |
+| 🐍 **Cyber Snake 2077** | Classic Grid Movement | [![Play Snake](https://img.shields.io/badge/PLAY_GAME-🐍_Retro_Snake-FF0055?style=for-the-badge)](https://playsnake.org/) |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bughopper14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=C9D1D9" alt="Top Languages" />
-</p>
+<br/>
+
+#### 🎮 `// SYSTEM IDLE: RETRO SNAKE SIMULATION`
+<!-- Retro Snake Animation Canvas -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
 ---
 
-### 📡 `[04_NETWORK]` Connect with Me
+### 📡 `[04_NETWORK]` Terminal Handshake
 
 <div align="center">
 
 ```
   ┌────────────────────────────────────────────────────────┐
   │  [TERMINAL READY] Initializing handshake protocol...   │
-  │  Email    : willyrok2401@gmail.com                     │
-  │  Location : Jakarta, Indonesia [GMT+7]                 │
+  │  Location : Indonesia                                  │
   │  Status   : Open for High-Impact Autonomous Projects   │
   └────────────────────────────────────────────────────────┘
 ```

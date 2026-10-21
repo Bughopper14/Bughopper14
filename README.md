@@ -6,8 +6,8 @@
 ```ascii
  ╔══════════════════════════════════════════════════════════════════════════════╗
  ║  [TRAINER PROFILE: BUGHOPPER]                                                ║
- ║  SPECIALTY : High-Concurrency Systems & Autonomous Distributed Architecture ║
- ║  HELD ITEM : Focus Sash (Zero Data Loss • Resilient Execution)               ║
+ ║  DISCIPLINE: Distributed Systems Architecture & High-Concurrency Engineering ║
+ ║  HELD ITEM : Focus Sash (Resilient Fault Tolerance • Zero Data Loss)         ║
  ║  PHILOSOPHY: 1 Task at a Time • Real Verified Execution • Zero Slop          ║
  ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -26,12 +26,12 @@
     <td width="33%" valign="top">
       <details>
         <summary style="cursor: pointer; list-style: none;">
-          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" style="pointer-events: none;" /><br/>
+          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" /><br/>
           <b>[ BALL #1 ]</b><br/>
           <sub>⚡ Tap to Reveal</sub>
         </summary>
         <br/>
-        <img src="https://play.pokemonshowdown.com/sprites/gen5/charizard.png" height="75" alt="Charizard" style="pointer-events: none;" /><br/>
+        <img src="https://play.pokemonshowdown.com/sprites/gen5/charizard.png" height="75" alt="Charizard" /><br/>
         <b>CHARIZARD</b><br/>
         <sub>🔥 Fire / 🦅 Flying</sub><br/><br/>
         <code>Role: Core Systems</code><br/>
@@ -43,12 +43,12 @@
     <td width="33%" valign="top">
       <details>
         <summary style="cursor: pointer; list-style: none;">
-          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" style="pointer-events: none;" /><br/>
+          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" /><br/>
           <b>[ BALL #2 ]</b><br/>
           <sub>⚡ Tap to Reveal</sub>
         </summary>
         <br/>
-        <img src="https://play.pokemonshowdown.com/sprites/gen5/gengar.png" height="75" alt="Gengar" style="pointer-events: none;" /><br/>
+        <img src="https://play.pokemonshowdown.com/sprites/gen5/gengar.png" height="75" alt="Gengar" /><br/>
         <b>GENGAR</b><br/>
         <sub>👻 Ghost / ☠️ Poison</sub><br/><br/>
         <code>Role: Security & Audit</code><br/>
@@ -60,12 +60,12 @@
     <td width="33%" valign="top">
       <details>
         <summary style="cursor: pointer; list-style: none;">
-          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" style="pointer-events: none;" /><br/>
+          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" /><br/>
           <b>[ BALL #3 ]</b><br/>
           <sub>⚡ Tap to Reveal</sub>
         </summary>
         <br/>
-        <img src="https://play.pokemonshowdown.com/sprites/gen5/pikachu.png" height="75" alt="Pikachu" style="pointer-events: none;" /><br/>
+        <img src="https://play.pokemonshowdown.com/sprites/gen5/pikachu.png" height="75" alt="Pikachu" /><br/>
         <b>PIKACHU</b><br/>
         <sub>⚡ Electric</sub><br/><br/>
         <code>Role: Telemetry & Queue</code><br/>
@@ -79,12 +79,12 @@
     <td width="33%" valign="top">
       <details>
         <summary style="cursor: pointer; list-style: none;">
-          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" style="pointer-events: none;" /><br/>
+          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" /><br/>
           <b>[ BALL #4 ]</b><br/>
           <sub>⚡ Tap to Reveal</sub>
         </summary>
         <br/>
-        <img src="https://play.pokemonshowdown.com/sprites/gen5/squirtle.png" height="75" alt="Squirtle" style="pointer-events: none;" /><br/>
+        <img src="https://play.pokemonshowdown.com/sprites/gen5/squirtle.png" height="75" alt="Squirtle" /><br/>
         <b>SQUIRTLE</b><br/>
         <sub>💧 Water</sub><br/><br/>
         <code>Role: State & Webhooks</code><br/>
@@ -96,12 +96,12 @@
     <td width="33%" valign="top">
       <details>
         <summary style="cursor: pointer; list-style: none;">
-          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" style="pointer-events: none;" /><br/>
+          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" /><br/>
           <b>[ BALL #5 ]</b><br/>
           <sub>⚡ Tap to Reveal</sub>
         </summary>
         <br/>
-        <img src="https://play.pokemonshowdown.com/sprites/gen5/lucario.png" height="75" alt="Lucario" style="pointer-events: none;" /><br/>
+        <img src="https://play.pokemonshowdown.com/sprites/gen5/lucario.png" height="75" alt="Lucario" /><br/>
         <b>LUCARIO</b><br/>
         <sub>🥋 Fighting / 🛡️ Steel</sub><br/><br/>
         <code>Role: Clean Architecture</code><br/>
@@ -113,12 +113,12 @@
     <td width="33%" valign="top">
       <details>
         <summary style="cursor: pointer; list-style: none;">
-          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" style="pointer-events: none;" /><br/>
+          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" /><br/>
           <b>[ BALL #6 ]</b><br/>
           <sub>⚡ Tap to Reveal</sub>
         </summary>
         <br/>
-        <img src="https://play.pokemonshowdown.com/sprites/gen5/mewtwo.png" height="75" alt="Mewtwo" style="pointer-events: none;" /><br/>
+        <img src="https://play.pokemonshowdown.com/sprites/gen5/mewtwo.png" height="75" alt="Mewtwo" /><br/>
         <b>MEWTWO</b><br/>
         <sub>🔮 Psychic</sub><br/><br/>
         <code>Role: Distributed Brain</code><br/>
@@ -131,24 +131,48 @@
 
 ---
 
-### 🎒 `[TECHNICAL_BAG]` TM Inventory
+### 🛡️ `[GYM_CHALLENGES]` Core Engineering Domains
 
 ```
-  ╔══════════════════════════════════════════════════════════════════════════════╗
-  ║  CATEGORY            │ MOVE / TECH BADGE        │ DISCIPLINE & MASTERY       ║
-  ╠══════════════════════╪══════════════════════════╪════════════════════════════╣
-  ║  ⚡ CORE RUNTIMES    │ TM01: TypeScript         │ Static Typings & Contracts ║
-  ║                      │ TM02: Python 3.12        │ Neural Pipelines & Scripts ║
-  ║                      │ TM03: Node.js            │ Event-Driven Microservices ║
-  ║                      │ TM04: Bash Shell         │ Linux Daemon Automations   ║
-  ╠══════════════════════╪══════════════════════════╪════════════════════════════╣
-  ║  🛡️ ARENA FRAMEWORKS │ TM05: Next.js 16 (React) │ Full-Stack SSR & API Route ║
-  ║                      │ TM06: Tailwind CSS       │ Modern Responsive UI/UX    ║
-  ║                      │ TM07: PostgreSQL / SQLite│ ACID State & In-Memory CAS ║
-  ║                      │ TM08: Supabase           │ Real-Time Subscriptions    ║
-  ║                      │ TM09: Docker Container   │ Isolated Env Deployments   ║
-  ║                      │ TM10: Ubuntu Linux       │ Host Kernel & Systemd Svc  ║
-  ╚══════════════════════════════════════════════════════════════════════════════╝
+  ┌── [01] HIGH-CONCURRENCY BACKEND ENGINES ──────────────────────────────────────┐
+  │  • In-Memory Mutex & Atomic CAS Quota Allocation                              │
+  │  • Idempotent Webhook Dispatchers with Cryptographic Signature Verification   │
+  │  • Multi-Tier Ledger Engines & Cycle-Free Directed Acyclic Graphs (DAG)      │
+  └───────────────────────────────────────────────────────────────────────────────┘
+
+  ┌── [02] FULL-STACK ARCHITECTURE & PLATFORMS ───────────────────────────────────┐
+  │  • Next.js 16 (App Router) & React 19 SSR Architecture                        │
+  │  • Pure Domain Modeling decoupled from Infrastructure & UI Envelopes         │
+  │  • Row-Level Security (RLS) & Strict Schema Migrations on PostgreSQL/Supabase │
+  └───────────────────────────────────────────────────────────────────────────────┘
+
+  ┌── [03] RELIABILITY & AUTOMATION WORKFLOWS ────────────────────────────────────┐
+  │  • Black-Box Adversarial QA & Strict Mathematical Boundary Testing (Vitest)   │
+  │  • Asynchronous Background Worker Dispatchers & Queue Decoupling              │
+  │  • Git Worktree Isolation for Parallel Development Pipelines                  │
+  └───────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🎒 `[TECHNICAL_BAG]` TM Inventory & Technical Stack
+
+```
+  ╔══════════════════════╤══════════════════════════╤════════════════════════════════╗
+  ║ CATEGORY             │ MOVE / ASSET             │ MASTERY & USAGE FOCUS          ║
+  ╠══════════════════════╪══════════════════════════╪════════════════════════════════╣
+  ║ ⚡ CORE RUNTIMES     │ TM01: TypeScript         │ Strict Domain Types & APIs     ║
+  ║                      │ TM02: Python 3.12        │ Backend Daemons & Tooling      ║
+  ║                      │ TM03: Node.js            │ High-Throughput Event Loops    ║
+  ║                      │ TM04: Bash Shell         │ Linux Automation & Workflows   ║
+  ╠══════════════════════╪══════════════════════════╪════════════════════════════════╣
+  ║ 🛡️ FRAMEWORKS & DB   │ TM05: Next.js 16 (React) │ Full-Stack Web Applications    ║
+  ║                      │ TM06: Tailwind CSS       │ Clean Responsive UI Design     ║
+  ║                      │ TM07: PostgreSQL / SQLite│ ACID Relational State Engines  ║
+  ║                      │ TM08: Supabase           │ Cloud DB, Auth & Real-Time Sync║
+  ║                      │ TM09: Docker Container   │ Reproducible Deployments       ║
+  ║                      │ TM10: Ubuntu Linux       │ Host Kernel & Systemd Services ║
+  ╚══════════════════════╧══════════════════════════╧════════════════════════════════╝
 ```
 
 ---
@@ -161,8 +185,8 @@
   ║  Trainer   : Bughopper                                     ║
   ║  Location  : Indonesia                                     ║
   ║  Rank      : Master Tier                                   ║
-  ║  Specialty : High-Concurrency & Distributed Architecture   ║
-  ║  System    : Ready for Challenges                          ║
+  ║  Focus     : High-Concurrency & Distributed Architecture   ║
+  ║  Status    : Open for High-Impact Technical Collaborations ║
   ╚════════════════════════════════════════════════════════════╝
 ```
 

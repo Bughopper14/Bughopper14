@@ -3,21 +3,20 @@
 # ⚡ POKÉMON TRAINER // BUGHOPPER ⚡
 ### `REGION: INDONESIA` • `TRAINER ID: #0288601572` • `LEAGUE RANK: MASTER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=12&pause=1000&color=FFCC00&center=true&vCenter=true&width=620&lines=Wild+BUGHOPPER+appeared!;Tap+a+Pokeball+to+inspect+Pokemon!;Full-Stack+Architect+%7C+Distributed+Systems;One+Task+at+a+Time.+Zero+Slop." alt="Typing SVG" />
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Trainer-Bughopper-FF0000?style=for-the-badge&logo=pokemon&logoColor=white" alt="Trainer" />
-  <img src="https://img.shields.io/badge/Location-Indonesia-FFD700?style=for-the-badge&logo=compass&logoColor=black" alt="Location" />
-  <img src="https://img.shields.io/badge/Badge_Case-8%2F8_Badges-3B4CCA?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="Badges" />
-</p>
+```ascii
+ ╔══════════════════════════════════════════════════════════════════════════════╗
+ ║  [TRAINER PROFILE: BUGHOPPER]                                                ║
+ ║  SPECIALTY : High-Concurrency Systems & Autonomous Distributed Architecture ║
+ ║  HELD ITEM : Focus Sash (Zero Data Loss • Resilient Execution)               ║
+ ║  PHILOSOPHY: 1 Task at a Time • Real Verified Execution • Zero Slop          ║
+ ╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
 ### 🔴 `[POKÉMON_TEAM]` Active Party
 
-> 👆 **Klik Pokéball** di bawah untuk membuka dan melihat Pokémon beserta spesifikasi teknisnya!
+> 👆 **Klik Pokéball** di bawah untuk mengeluarkan Pokémon beserta kartu statistiknya!
 
 <br/>
 
@@ -27,12 +26,12 @@
     <td width="33%" valign="top">
       <details>
         <summary style="cursor: pointer; list-style: none;">
-          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" /><br/>
+          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" style="pointer-events: none;" /><br/>
           <b>[ BALL #1 ]</b><br/>
-          <sub>⚡ Tap to Open</sub>
+          <sub>⚡ Tap to Reveal</sub>
         </summary>
         <br/>
-        <img src="https://play.pokemonshowdown.com/sprites/gen5/charizard.png" height="75" alt="Charizard" /><br/>
+        <img src="https://play.pokemonshowdown.com/sprites/gen5/charizard.png" height="75" alt="Charizard" style="pointer-events: none;" /><br/>
         <b>CHARIZARD</b><br/>
         <sub>🔥 Fire / 🦅 Flying</sub><br/><br/>
         <code>Role: Core Systems</code><br/>
@@ -44,12 +43,12 @@
     <td width="33%" valign="top">
       <details>
         <summary style="cursor: pointer; list-style: none;">
-          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" /><br/>
+          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" style="pointer-events: none;" /><br/>
           <b>[ BALL #2 ]</b><br/>
-          <sub>⚡ Tap to Open</sub>
+          <sub>⚡ Tap to Reveal</sub>
         </summary>
         <br/>
-        <img src="https://play.pokemonshowdown.com/sprites/gen5/gengar.png" height="75" alt="Gengar" /><br/>
+        <img src="https://play.pokemonshowdown.com/sprites/gen5/gengar.png" height="75" alt="Gengar" style="pointer-events: none;" /><br/>
         <b>GENGAR</b><br/>
         <sub>👻 Ghost / ☠️ Poison</sub><br/><br/>
         <code>Role: Security & Audit</code><br/>
@@ -61,12 +60,12 @@
     <td width="33%" valign="top">
       <details>
         <summary style="cursor: pointer; list-style: none;">
-          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" /><br/>
+          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" style="pointer-events: none;" /><br/>
           <b>[ BALL #3 ]</b><br/>
-          <sub>⚡ Tap to Open</sub>
+          <sub>⚡ Tap to Reveal</sub>
         </summary>
         <br/>
-        <img src="https://play.pokemonshowdown.com/sprites/gen5/pikachu.png" height="75" alt="Pikachu" /><br/>
+        <img src="https://play.pokemonshowdown.com/sprites/gen5/pikachu.png" height="75" alt="Pikachu" style="pointer-events: none;" /><br/>
         <b>PIKACHU</b><br/>
         <sub>⚡ Electric</sub><br/><br/>
         <code>Role: Telemetry & Queue</code><br/>
@@ -80,12 +79,12 @@
     <td width="33%" valign="top">
       <details>
         <summary style="cursor: pointer; list-style: none;">
-          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" /><br/>
+          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" style="pointer-events: none;" /><br/>
           <b>[ BALL #4 ]</b><br/>
-          <sub>⚡ Tap to Open</sub>
+          <sub>⚡ Tap to Reveal</sub>
         </summary>
         <br/>
-        <img src="https://play.pokemonshowdown.com/sprites/gen5/squirtle.png" height="75" alt="Squirtle" /><br/>
+        <img src="https://play.pokemonshowdown.com/sprites/gen5/squirtle.png" height="75" alt="Squirtle" style="pointer-events: none;" /><br/>
         <b>SQUIRTLE</b><br/>
         <sub>💧 Water</sub><br/><br/>
         <code>Role: State & Webhooks</code><br/>
@@ -97,12 +96,12 @@
     <td width="33%" valign="top">
       <details>
         <summary style="cursor: pointer; list-style: none;">
-          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" /><br/>
+          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" style="pointer-events: none;" /><br/>
           <b>[ BALL #5 ]</b><br/>
-          <sub>⚡ Tap to Open</sub>
+          <sub>⚡ Tap to Reveal</sub>
         </summary>
         <br/>
-        <img src="https://play.pokemonshowdown.com/sprites/gen5/lucario.png" height="75" alt="Lucario" /><br/>
+        <img src="https://play.pokemonshowdown.com/sprites/gen5/lucario.png" height="75" alt="Lucario" style="pointer-events: none;" /><br/>
         <b>LUCARIO</b><br/>
         <sub>🥋 Fighting / 🛡️ Steel</sub><br/><br/>
         <code>Role: Clean Architecture</code><br/>
@@ -114,12 +113,12 @@
     <td width="33%" valign="top">
       <details>
         <summary style="cursor: pointer; list-style: none;">
-          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" /><br/>
+          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="38" height="38" alt="Pokeball" style="pointer-events: none;" /><br/>
           <b>[ BALL #6 ]</b><br/>
-          <sub>⚡ Tap to Open</sub>
+          <sub>⚡ Tap to Reveal</sub>
         </summary>
         <br/>
-        <img src="https://play.pokemonshowdown.com/sprites/gen5/mewtwo.png" height="75" alt="Mewtwo" /><br/>
+        <img src="https://play.pokemonshowdown.com/sprites/gen5/mewtwo.png" height="75" alt="Mewtwo" style="pointer-events: none;" /><br/>
         <b>MEWTWO</b><br/>
         <sub>🔮 Psychic</sub><br/><br/>
         <code>Role: Distributed Brain</code><br/>
@@ -132,20 +131,25 @@
 
 ---
 
-### 🎒 `[TECHNICAL_BAG]` TM Arsenal
+### 🎒 `[TECHNICAL_BAG]` TM Inventory
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TM01_TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/TM02_Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TM03_Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TM04_Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TM05_PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/TM06_Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/TM07_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/TM08_Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux" />
-</p>
+```
+  ╔══════════════════════════════════════════════════════════════════════════════╗
+  ║  CATEGORY            │ MOVE / TECH BADGE        │ DISCIPLINE & MASTERY       ║
+  ╠══════════════════════╪══════════════════════════╪════════════════════════════╣
+  ║  ⚡ CORE RUNTIMES    │ TM01: TypeScript         │ Static Typings & Contracts ║
+  ║                      │ TM02: Python 3.12        │ Neural Pipelines & Scripts ║
+  ║                      │ TM03: Node.js            │ Event-Driven Microservices ║
+  ║                      │ TM04: Bash Shell         │ Linux Daemon Automations   ║
+  ╠══════════════════════╪══════════════════════════╪════════════════════════════╣
+  ║  🛡️ ARENA FRAMEWORKS │ TM05: Next.js 16 (React) │ Full-Stack SSR & API Route ║
+  ║                      │ TM06: Tailwind CSS       │ Modern Responsive UI/UX    ║
+  ║                      │ TM07: PostgreSQL / SQLite│ ACID State & In-Memory CAS ║
+  ║                      │ TM08: Supabase           │ Real-Time Subscriptions    ║
+  ║                      │ TM09: Docker Container   │ Isolated Env Deployments   ║
+  ║                      │ TM10: Ubuntu Linux       │ Host Kernel & Systemd Svc  ║
+  ╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
@@ -154,12 +158,12 @@
 ```
   ╔════════════════════════════════════════════════════════════╗
   ║  [TRAINER CARD // REGION INDONESIA]                        ║
-  ║  Trainer  : Bughopper                                      ║
-  ║  Location : Indonesia                                      ║
-  ║  Specialty: High-Concurrency & Distributed Architecture    ║
+  ║  Trainer   : Bughopper                                     ║
+  ║  Location  : Indonesia                                     ║
+  ║  Rank      : Master Tier                                   ║
+  ║  Specialty : High-Concurrency & Distributed Architecture   ║
+  ║  System    : Ready for Challenges                          ║
   ╚════════════════════════════════════════════════════════════╝
 ```
-
-<img src="https://komarev.com/ghpvc/?username=Bughopper14&label=Trainers+Encountered&color=FFCC00&style=for-the-badge" alt="Views" />
 
 </div>

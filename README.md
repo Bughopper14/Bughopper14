@@ -14,6 +14,39 @@
 
 ---
 
+### 🕹️ `[ARCADE_SECTOR]` Bughopper: Pokémon Roguelike Survival
+
+> 🎮 **Playable Browser Roguelike Bullet-Heaven:** Bertahan hidup dari gelombang musuh Pokémon liar, kumpulkan EXP, dan evolusikan jurus otomatis Anda!
+
+<br/>
+
+<a href="https://bughopper14.github.io/bughopper/" target="_blank">
+  <img src="https://raw.githubusercontent.com/Bughopper14/bughopper/main/assets/og-image.jpg" width="85%" style="border-radius: 12px; border: 2px solid #FFCC00;" alt="Play Bughopper Game" />
+</a>
+
+<br/><br/>
+
+<a href="https://bughopper14.github.io/bughopper/" target="_blank">
+  <img src="https://img.shields.io/badge/PLAY_GAME-🎮_START_BUGHOPPER-FF0000?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="Play Game Button" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Bughopper14/bughopper" target="_blank">
+  <img src="https://img.shields.io/badge/SOURCE_CODE-📦_REPOSITORY-3B4CCA?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Button" />
+</a>
+
+<br/><br/>
+
+```
+  ┌── [BUGHOPPER GAME SPECS] ─────────────────────────────────────────────────────┐
+  │  • Engine   : Native HTML5 Canvas 2D + Game Loop (60 FPS No-Framework)        │
+  │  • Pokedex  : 966 Pokémon (Gen 1 – Gen 9) + Custom Shiny & Evolution Tree     │
+  │  • Controls : PC (W-A-S-D / Arrow Keys) & Mobile Touchpad / Virtual Joystick │
+  │  • Combat   : Auto-Targeting Move Waves, Upgrades, & Boss Rifts               │
+  └───────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ### 🔴 `[POKÉMON_TEAM]` Active Party
 
 > 👆 **Klik Pokéball** di bawah untuk mengeluarkan Pokémon beserta kartu statistiknya!
@@ -128,30 +161,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🛡️ `[GYM_CHALLENGES]` Core Engineering Domains
-
-```
-  ┌── [01] HIGH-CONCURRENCY BACKEND ENGINES ──────────────────────────────────────┐
-  │  • In-Memory Mutex & Atomic CAS Quota Allocation                              │
-  │  • Idempotent Webhook Dispatchers with Cryptographic Signature Verification   │
-  │  • Multi-Tier Ledger Engines & Cycle-Free Directed Acyclic Graphs (DAG)      │
-  └───────────────────────────────────────────────────────────────────────────────┘
-
-  ┌── [02] FULL-STACK ARCHITECTURE & PLATFORMS ───────────────────────────────────┐
-  │  • Next.js 16 (App Router) & React 19 SSR Architecture                        │
-  │  • Pure Domain Modeling decoupled from Infrastructure & UI Envelopes         │
-  │  • Row-Level Security (RLS) & Strict Schema Migrations on PostgreSQL/Supabase │
-  └───────────────────────────────────────────────────────────────────────────────┘
-
-  ┌── [03] RELIABILITY & AUTOMATION WORKFLOWS ────────────────────────────────────┐
-  │  • Black-Box Adversarial QA & Strict Mathematical Boundary Testing (Vitest)   │
-  │  • Asynchronous Background Worker Dispatchers & Queue Decoupling              │
-  │  • Git Worktree Isolation for Parallel Development Pipelines                  │
-  └───────────────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 

@@ -21,7 +21,7 @@
 <br/>
 
 <a href="https://bughopper14.github.io/bughopper/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Bughopper14/bughopper/main/assets/og-image.jpg" width="85%" style="border-radius: 12px; border: 2px solid #FFCC00;" alt="Play Bughopper Game" />
+  <img src="https://raw.githubusercontent.com/Bughopper14/bughopper/main/assets/bughopper-preview.png" width="85%" style="border-radius: 12px; border: 2px solid #FFCC00;" alt="Play Bughopper Game" />
 </a>
 
 <br/><br/>
